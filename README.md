@@ -8,7 +8,3 @@ RU:
 EN:
 In this code, there is an array that can be displayed in three ways: manually (from the keyboard), a random number generator and a constant.
 This code sorts the array rows in ascending order.
-
-GE:
-In diesem Code gibt es ein Array, das auf drei Arten angezeigt werden kann: manuell (über die Tastatur), einen Zufallszahlengenerator und eine Konstante.
-Dieser Code sortiert die Array-Zeilen in aufsteigender Reihenfolge.
